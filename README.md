@@ -8,9 +8,13 @@ Install the node packages via:
 
 `$ npm install`
 
+## Devply TypeSCript.
+
 And then run the grunt task to compile the TypeScript:
 
-`$ npm run grunt`
+`$ npm run grunt` 
+
+will be the Deplyment at `dist` folder.
 
 ## Starting
 
